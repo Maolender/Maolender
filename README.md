@@ -2,7 +2,6 @@
 - 👀 I’m interested in GIS, cartography, and data visualization.
 - 🌱 I’m currently learning LIDAR data processing using python.
 - 💞️ I’m looking to collaborate on maps!
-- 📫 How to reach me maolender@icloud.com
 - 😄 Pronouns: she/her
 
 <!---
